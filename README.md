@@ -138,7 +138,7 @@ Seleccionas como quieres que sea el cuestionario
 
 ![Logo de Markdown](/cap27.png)
 
-Pones la pregunta que desees ariba del todo
+Pones la pregunta que desees arriba del todo
 
 
 ![Logo de Markdown](/cap28.png)
