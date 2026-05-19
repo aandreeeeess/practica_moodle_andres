@@ -34,5 +34,5 @@ Una vez ya tengas todos creados le das a examinar usuarios y podras ver lo usuar
 ![Logo de Markdown](/capa.png) ![Logo de Markdown](/capb.png)
 
 
-Aqui podemos ver cada materia que tiene cada clase A i B
+Aqui podemos ver cada materia que tiene cada clase A i B.
 
