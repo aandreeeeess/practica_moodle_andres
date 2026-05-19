@@ -15,4 +15,3 @@ Esta imagen es donde ir para ponerte tu una foto y alguna gente ha tenido que ca
 Para crear un tema le das aqui añadir seccion y ya lo tienes
 
 
-![Logo de Markdown](/captura4.png)
