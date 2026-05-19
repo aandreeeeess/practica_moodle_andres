@@ -84,14 +84,43 @@ saldra esto pero nosotros le daremos a saltar el ultimo paso y ya lo tendremos
 
 ![Logo de Markdown](/cap16.png)
 
+y como podemos ver todo se ha pasado tambien al B
 
 
 ![Logo de Markdown](/cap17.png)
 
+Para la calificación automática te vienes a gradosi y le pones donde defecto 100 y ya se pondra 100 automáticamente.
 
 
 ![Logo de Markdown](/cap18.png)
 
+para añadir la insignia te vienes donde pone insignias y añadir una nueva insignia
 
 
 ![Logo de Markdown](/cap19.png)
+
+la creas
+
+
+![Logo de Markdown](/cap20.png)
+
+y para darsela a alguin una vez la hayas creado te saldra arriba de la insignia destinatarios le das y seleccionas a quien se la quieras dar y ya.
+
+
+![Logo de Markdown](/cap21.png)
+
+para crear un cuestionario le das al más a lo de actividades
+
+![Logo de Markdown](/cap22.png)
+
+ahora eliges lo de cuestionario
+
+
+![Logo de Markdown](/cap23.png)
+
+le pones el nombre que desees
+
+
+![Logo de Markdown](/cap24.png)
+
+y como podemos ver todo se ha pasado tambien al B
