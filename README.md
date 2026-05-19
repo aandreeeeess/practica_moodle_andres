@@ -48,5 +48,5 @@ Una vez le das te sale esto pones la foto que tu desees y ya se te pondra el log
 
 ![Logo de Markdown](/cap9.png)
 
-Para crear una actividad tenemos que ir a tarea, hacer click y abajo te saldra una + donde si le das click te saldra actividad o recurso y le damos a eso. Saldra todo esto podemos elegir cualquiera en mi caso he elegido tarea en las 3
+Para crear una actividad tenemos que ir a tarea, hacer click y abajo te saldra una + donde si le das click te saldra actividad o recurso y le damos a eso. Saldra todo esto y podremos elegir cualquiera en mi caso he elegido tarea en las 3
 
