@@ -46,7 +46,52 @@ Para cambiar el logotipo te tienes que venir al apartado de apariencia y donde p
 
 Una vez le das te sale esto pones la foto que tu desees y ya se te pondra el logo en la parte de la pestaña
 
+
 ![Logo de Markdown](/cap9.png)
 
-Para crear una actividad tenemos que ir a tarea, hacer click y abajo te saldra una + donde si le das click te saldra actividad o recurso y le damos a eso. Saldra todo esto y podremos elegir cualquiera en mi caso he elegido tarea en las 3
+Para crear una actividad tenemos que ir a tarea, hacer click y abajo te saldra una + donde si le das click te saldra actividad o recurso y le damos a eso. Saldra todo esto y podremos elegir cualquiera en mi caso he elegido tarea en las 3.
 
+
+![Logo de Markdown](/cap10.png)
+
+creas una tarea cualquiera la subes y ya la pueden hacer tus alumnos hay que darle a guardar cambios
+
+
+![Logo de Markdown](/cap11.png)
+
+lo verificas y ya 
+
+
+![Logo de Markdown](/cap12.png)
+
+para pasar las mismas tascas al curs B hay que ir a más y abajo del todo reutilizacion de curso.
+
+
+![Logo de Markdown](/cap13.png)
+
+dentro de aqui clicamos donde pone importar
+
+
+![Logo de Markdown](/cap14.png)
+
+seleccionamos la clase A y le damos a continuar
+
+
+![Logo de Markdown](/cap15.png)
+
+saldra esto pero nosotros le daremos a saltar el ultimo paso y ya lo tendremos
+
+
+![Logo de Markdown](/cap16.png)
+
+
+
+![Logo de Markdown](/cap17.png)
+
+
+
+![Logo de Markdown](/cap18.png)
+
+
+
+![Logo de Markdown](/cap19.png)
