@@ -15,3 +15,11 @@ Esta imagen es donde ir para ponerte tu una foto y alguna gente ha tenido que ca
 Para crear un tema le das aqui añadir seccion y ya lo tienes
 
 
+![Logo de Markdown](/captura4.png)
+
+Verificas que los tengas todos
+
+
+![Logo de Markdown](/captura5.png)
+
+Para la creacion de usuarios le das ahi y los vas creando poco a poco
