@@ -31,6 +31,8 @@ Para la creacion de usuarios le das ahi y los vas creando poco a poco
 Una vez ya tengas todos creados le das a examinar usuarios y podras ver lo usuarios que has creado y ponerlos como profesor o lo que tu quieras
 
 
-![Logo de Markdown](/captura4.png)
+![Logo de Markdown](/capa.png) ![Logo de Markdown](/capb.png)
 
-en este solo tengo la actividad B ya que la A no la se hacer 
+
+Aqui podemos ver cada materia que tiene cada clase A i B
+
