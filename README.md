@@ -54,37 +54,37 @@ Para crear una actividad tenemos que ir a tarea, hacer click y abajo te saldra u
 
 ![Logo de Markdown](/cap10.png)
 
-creas una tarea cualquiera la subes y ya la pueden hacer tus alumnos hay que darle a guardar cambios
+Creas una tarea cualquiera la subes y ya la pueden hacer tus alumnos hay que darle a guardar cambios
 
 
 ![Logo de Markdown](/cap11.png)
 
-lo verificas y ya 
+Lo verificas y ya 
 
 
 ![Logo de Markdown](/cap12.png)
 
-para pasar las mismas tascas al curs B hay que ir a más y abajo del todo reutilizacion de curso.
+Para pasar las mismas tascas al curs B hay que ir a más y abajo del todo reutilizacion de curso.
 
 
 ![Logo de Markdown](/cap13.png)
 
-dentro de aqui clicamos donde pone importar
+Dentro de aqui clicamos donde pone importar
 
 
 ![Logo de Markdown](/cap14.png)
 
-seleccionamos la clase A y le damos a continuar
+Seleccionamos la clase A y le damos a continuar
 
 
 ![Logo de Markdown](/cap15.png)
 
-saldra esto pero nosotros le daremos a saltar el ultimo paso y ya lo tendremos
+Saldra esto pero nosotros le daremos a saltar el ultimo paso y ya lo tendremos
 
 
 ![Logo de Markdown](/cap16.png)
 
-y como podemos ver todo se ha pasado tambien al B
+Y como podemos ver todo se ha pasado tambien al B
 
 
 ![Logo de Markdown](/cap17.png)
@@ -94,33 +94,53 @@ Para la calificación automática te vienes a gradosi y le pones donde defecto 1
 
 ![Logo de Markdown](/cap18.png)
 
-para añadir la insignia te vienes donde pone insignias y añadir una nueva insignia
+Para añadir la insignia te vienes donde pone insignias y añadir una nueva insignia
 
 
 ![Logo de Markdown](/cap19.png)
 
-la creas
+La creas
 
 
 ![Logo de Markdown](/cap20.png)
 
-y para darsela a alguin una vez la hayas creado te saldra arriba de la insignia destinatarios le das y seleccionas a quien se la quieras dar y ya.
+Y para darsela a alguin una vez la hayas creado te saldra arriba de la insignia destinatarios le das y seleccionas a quien se la quieras dar y ya.
 
 
 ![Logo de Markdown](/cap21.png)
 
-para crear un cuestionario le das al más a lo de actividades
+Para crear un cuestionario le das al más a lo de actividades
 
 ![Logo de Markdown](/cap22.png)
 
-ahora eliges lo de cuestionario
+Ahora eliges lo de cuestionario
 
 
 ![Logo de Markdown](/cap23.png)
 
-le pones el nombre que desees
+Le pones el nombre que desees
 
 
 ![Logo de Markdown](/cap24.png)
 
-y como podemos ver todo se ha pasado tambien al B
+Agregas la pregunta
+
+
+![Logo de Markdown](/cap25.png)
+
+Le das a una nueva pregunta
+
+
+![Logo de Markdown](/cap26.png)
+
+Seleccionas como quieres que sea el cuestionario
+
+
+![Logo de Markdown](/cap27.png)
+
+Pones la pregunta que desees ariba del todo
+
+
+![Logo de Markdown](/cap28.png)
+
+Y aqui pones las respuestas y ya.
