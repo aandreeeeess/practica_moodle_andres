@@ -36,3 +36,16 @@ Una vez ya tengas todos creados le das a examinar usuarios y podras ver lo usuar
 
 Aqui podemos ver cada materia que tiene cada clase A i B.
 
+
+![Logo de Markdown](/cap7.png)
+
+Para cambiar el logotipo te tienes que venir al apartado de apariencia y donde pone logotipos
+
+
+![Logo de Markdown](/cap8.png)
+
+Una vez le das te sale esto pones la foto que tu desees y ya se te pondra el logo en la parte de la pestaña
+
+![Logo de Markdown](/cap9.png)
+
+Para crear una actividad nos tenemos que donde un tema y abajo te saldra una + donde si le das clic te saldra actividad o recurso y le damos a eso.
