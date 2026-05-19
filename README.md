@@ -1,3 +1,3 @@
 # practica_moodle_andres
 
-![Logo de Markdown](/imagen1.png)
+![Logo de Markdown](/captura1.png)
