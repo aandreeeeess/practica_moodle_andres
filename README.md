@@ -23,3 +23,14 @@ Verificas que los tengas todos
 ![Logo de Markdown](/captura5.png)
 
 Para la creacion de usuarios le das ahi y los vas creando poco a poco
+
+
+![Logo de Markdown](/captura6.png)
+
+
+Una vez ya tengas todos creados le das a examinar usuarios y podras ver lo usuarios que has creado y ponerlos como profesor o lo que tu quieras
+
+
+![Logo de Markdown](/captura4.png)
+
+en este solo tengo la actividad B ya que la A no la se hacer 
